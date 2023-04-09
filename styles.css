@@ -1,0 +1,47 @@
+html,
+body {
+  background-color: cornflowerblue;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+h2 {
+  color: aliceblue;
+  font-size: 45px;
+  font-style: Italic;
+  font-family: Menlo, Monaco, Roboto monospace;
+}
+p {
+  color: blueviolet;
+}
+
+button {
+  appearance: auto;
+  writing-mode: horizontal-tb !important;
+  font-style: merriweather !important;
+  font-weight: bold;
+  font-stretch: expanded !important;
+  font-size: 20px;
+  font-family: "Gill Sans", sans-serif;
+  text-rendering: auto;
+  color: rgb(110, 103, 117);
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+  cursor: default;
+  box-sizing: border-box;
+  background-color: blueviolet;
+  margin: 0em;
+  padding: 1px 8px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonborder;
+  border-image: initial;
+}
